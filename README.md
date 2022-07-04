@@ -6,7 +6,11 @@ Landing Page do instagram criada no **Boot Camp Impulso Java Script** na platafo
 
 ## LINK DO PROJETO 
 
-![](https://gabrie1garcia.github.io/Instagram-landing-page/)
+[](https://gabrie1garcia.github.io/Instagram-landing-page/)
+
+
+
+
 
 
 
